@@ -57,6 +57,7 @@ function Login({ onLogin }) {
         <div className="login-jumbotron">
           <h1>Selamat Datang!</h1>
           <p>Masuk untuk mengelola data pengguna</p>
+          <p>nama: admin & email: admin@gmail.com</p>
         </div>
 
         <form className="login-form" onSubmit={handleLogin}>
