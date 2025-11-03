@@ -28,15 +28,15 @@ Fitur utama dari aplikasi ini meliputi:
 Berikut contoh tampilan aplikasi:
 
 <p align="center">
+  <img src="public/img/login.png" width="600" alt="Login">
+</p>
+
+<p align="center">
   <img src="public/img/form.png" width="600" alt="Form Pengguna">
 </p>
 
 <p align="center">
   <img src="public/img/data.png" width="600" alt="Data Pengguna">
-</p>
-
-<p align="center">
-  <img src="public/img/login.png" width="600" alt="Login">
 </p>
 
 ## Teknologi yang Digunakan
