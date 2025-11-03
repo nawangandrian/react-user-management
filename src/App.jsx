@@ -26,8 +26,7 @@ function App() {
   async function getAllData() {
     try {
       const response = await axios.get(`${API_URL}/person`);
-      // langsung pakai response.data jika backend mengembalikan array
-      setUsers(response.data || []);
+      setUsers(response.data); 
     } catch (error) {
       console.error('Error fetching data:', error);
     }
