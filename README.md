@@ -47,9 +47,7 @@ Berikut contoh tampilan aplikasi:
 - **Version Control:** Git dan GitHub
 
 ## Link Deploy
-```bash
-https://react-user-management-flame.vercel.app/
-```
+[🌐 Lihat Aplikasi di Vercel](https://react-user-management-flame.vercel.app/)
 
 ## Cara Menjalankan Aplikasi (Localhost)
 
