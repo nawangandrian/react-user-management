@@ -1,0 +1,52 @@
+{
+  "person": [
+    {
+      "nama": "Nawang",
+      "email": "nawang@gmail.com",
+      "kota": "Jakarta",
+      "usia": 25,
+      "gender": "L",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "nama": "Alan",
+      "email": "alan@gmail.com",
+      "kota": "Bandung",
+      "usia": 30,
+      "gender": "L"
+    },
+    {
+      "id": "3",
+      "nama": "Andrian",
+      "email": "andrian@gmail.com",
+      "kota": "Surabaya",
+      "usia": 28,
+      "gender": "L"
+    },
+    {
+      "nama": "Siti",
+      "email": "siti@gmail.com",
+      "kota": "Yogyakarta",
+      "usia": "23",
+      "gender": "P",
+      "id": "4"
+    },
+    {
+      "nama": "Wang",
+      "email": "wang@gmail.com",
+      "kota": "Kudus",
+      "usia": "27",
+      "gender": "L",
+      "id": "e8e6"
+    },
+    {
+      "id": "466f",
+      "nama": "Gigi",
+      "email": "gigi@gmail.com",
+      "kota": "Semarang",
+      "usia": "24",
+      "gender": "P"
+    }
+  ]
+}
