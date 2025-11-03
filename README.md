@@ -47,6 +47,9 @@ Berikut contoh tampilan aplikasi:
 - **Version Control:** Git dan GitHub
 
 ## Link Deploy
+
+Silahkan login dengan Username: admin & Email: admin@gmail.com
+
 [🌐 Lihat Aplikasi di Vercel](https://react-user-management-flame.vercel.app/)
 
 ## Cara Menjalankan Aplikasi (Localhost)
