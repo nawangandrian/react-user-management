@@ -46,6 +46,11 @@ Berikut contoh tampilan aplikasi:
 - **Database:** JSON
 - **Version Control:** Git dan GitHub
 
+## Link Deploy
+```bash
+https://react-user-management-flame.vercel.app/
+```
+
 ## Cara Menjalankan Aplikasi (Localhost)
 
 1. Clone repository:
